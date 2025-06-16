@@ -30,8 +30,14 @@ JIEJOE将字体以及设计工程文件也都进行了上传，想要二创、�
 <br>
 
 ## ✊️ Support me
-这套表情包JIEJOE已经上传到了自己的B站账号，实际上小伙伴们直接使用表情包图片即可，但如果想要在B站平台使用专属充电表情的话，需要为JIEJOE充值每月6元的包月充电(6元是最低，没法在再设置了)，感谢你的理解🌹
+这套表情包JIEJOE已经上传到了自己的B站账号，实际上小伙伴们直接使用表情包图片即可，但如果想要在B站平台使用专属充电表情的话，需要最低为JIEJOE充值6元的充电(6元是最低，没法在再设置了:[ )，感谢你的理解🌹<br>
+PS: 赛博狗头因为属于二创表情、是在基础的狗头表情上衍生的，但狗头表情是有版权的，所以B站的赛博狗头没有通过审核，故小伙伴们没法在B站直接使用，实在抱歉
 
-<img src="https://i2.hdslb.com/bfs/archive/c6c949165f5b927c70ebd240267f177f887305ea.jpg" width="40%">
+<div align="center">
+  <div align="space-between">
+    <img src="https://raw.githubusercontent.com/JIEJOE-Visual/web-emoji/main/screenshots/表情包预览.jpg" width="49.7%">
+    <img src="https://raw.githubusercontent.com/JIEJOE-Visual/web-emoji/main/screenshots/充电预览.png" width="49.7%">
+  </div>
+</div>
 
 如果你觉得这个项目还不错的话，欢迎你的**Fork**或**Star**，非常感谢🙇‍
